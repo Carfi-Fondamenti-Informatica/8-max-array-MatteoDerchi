@@ -1,5 +1,11 @@
+
 #include <iostream>
+#include "lib.h"
+using namespace std;
 
 int main(){
-  return 0;
+    float valoremax;
+    valoremax=funzione();
+    cout<<valoremax<<endl;
+    return 0;
 }
